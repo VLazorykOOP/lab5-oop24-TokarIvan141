@@ -1,0 +1,16 @@
+# ninja log v6
+12	656	7655599509411461	CMakeFiles/Lab5.dir/Student.cpp.obj	c300ae7d48ddd834
+24	935	7655609250756512	CMakeFiles/Lab5.dir/Task1/Person.cpp.obj	e863ecde7da4131d
+8	660	7655599509360731	CMakeFiles/Lab5.dir/Person.cpp.obj	423a06ed4841ca6e
+436	537	7655609537624358	Lab5.exe	a67d6ffac7bd0962
+20	436	7655609533465792	CMakeFiles/Lab5.dir/main.cpp.obj	5dab2004753a763f
+33	904	7655609250846518	CMakeFiles/Lab5.dir/Task2/Window.cpp.obj	14aca70dfe31c65f
+28	907	7655609250796502	CMakeFiles/Lab5.dir/Task1/Student.cpp.obj	ce1a23f3d6bd4f09
+42	941	7655609250941708	CMakeFiles/Lab5.dir/Task2/ButtonWindow.cpp.obj	97c94ebb90cb7341
+38	977	7655609250891719	CMakeFiles/Lab5.dir/Task2/TitledWindow.cpp.obj	8c72904e45c57fe9
+23	583	7655622527660123	CMakeFiles/Lab5.dir/Task1/Student.cpp.obj	ce1a23f3d6bd4f09
+18	590	7655622527620166	CMakeFiles/Lab5.dir/main.cpp.obj	5dab2004753a763f
+27	593	7655622527711355	CMakeFiles/Lab5.dir/Task_3/GraduateStudent.cpp.obj	306216f524542bca
+593	719	7655622533358380	Lab5.exe	eb243098c830a72b
+59	1050	7658105146756995	CMakeFiles/Lab5.dir/main.cpp.obj	5dab2004753a763f
+1051	1338	7658105156674448	Lab5.exe	eb243098c830a72b
